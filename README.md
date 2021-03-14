@@ -1,1 +1,1 @@
-Implemenation of a basic Binary Search Tree.
+Implemene of a basic Binary Search Tree.
